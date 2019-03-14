@@ -1,3 +1,3 @@
-# CreatureJobSearch
+# Project One: Creature Job Search Engine
 
-https://lduttonucsd.github.io/CreatureJobSearchApp/
+https://osoleimani75.github.io/newproject/
