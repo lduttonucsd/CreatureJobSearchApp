@@ -1,3 +1,3 @@
 # CreatureJobSearch
 
-https://lduttonucsd.github.io/newproject/
+https://lduttonucsd.github.io/CreatureJobSearchApp/
